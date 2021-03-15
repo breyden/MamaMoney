@@ -6,7 +6,7 @@ Assumptions
 
 How to start
 
-$ git clone https://github.com/mkyong/spring-boot.git
+$ git clone https://github.com/breyden/spring-rest-simple-ussd.git
 $ cd spring-rest-simple-ussd
 $ mvn spring-boot:run -X
 
